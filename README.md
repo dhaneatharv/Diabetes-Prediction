@@ -18,7 +18,6 @@ This project builds a **Diabetes Risk Prediction system** using multiple machine
 ![Demo GIF](demo.gif)
 ![Demo2 GIF](demo2.gif)
 
-> Record your app screen and save it as `demo.gif` to showcase this section.
 
 ---
 
